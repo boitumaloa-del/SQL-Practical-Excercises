@@ -1,7 +1,7 @@
 # SQL-Practical-Excercises
 This repository contains my SQL practice exercises completed as part of the BrightLearn Data Analytics course.
 Each exercise focuses on key SQL concepts, from basic SELECT statements to advanced functions such as DATE manipulation, NULL handling, and table JOINs.
-All tasks were completed using Snowflake SQL and written manually as part of the learning process.
+All tasks were written manually as part of the learning process.
 
 <h1> 🧩 Exercises</h1>  
 <h2>🧠 Exercise 01 — SQL Fundamentals (SELECT & Filtering Statements)</h2>
